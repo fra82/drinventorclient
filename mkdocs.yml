@@ -1,0 +1,28 @@
+site_name: Dr. Inventor Text Mining Framework Documentation
+repo_url: https://github.com/fra82/driframework
+repo_name: GitHub
+theme: readthedocs
+site_description: Documentation for Dr. Inventor Text Mining Framework
+docs_dir: doc
+include_search: true
+pages:
+- ['index.md', 'Home']
+- ['Introduction.md', 'About', 'Introduction']
+- ['References.md', 'About', 'References']
+- ['Version.md', 'About', 'Version']
+- ['ArchitectureOverview.md', 'Architecture', 'Overview']
+- ['PDFtoText.md', 'Architecture', 'Converting PDF to text']
+- ['Citation.md', 'Architecture', 'Analyzing citations']
+- ['RhetSentence.md', 'Architecture', 'Identifying the rhetorical role of sentences']
+- ['BabelnetAnn.md', 'Architecture', 'Annotating papers by Babelnet']
+- ['SVOgraph.md', 'Architecture', 'Generating Subject-Verb-Object graphs']
+- ['Summa.md', 'Architecture', 'Summarizing papers']
+- ['Installation.md', 'User manual', 'Installation']
+- ['Initialize.md', 'User manual', 'Initialization']
+- ['ImportDoc.md', 'User manual', 'Import scientific publications']
+- ['ProcessDoc.md', 'User manual', 'Process scientific publications']
+- ['ScuPubDataModel.md', 'User manual', 'The Scientific Publication Data Model']
+- ['StoreDoc.md', 'User manual', 'Store processing results']
+- ['FAQ.md', 'User manual', 'FAQ']
+
+
