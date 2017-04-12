@@ -2,7 +2,7 @@ The results of the analysis of a scientific publications by means of the Dr. Inv
 
 After reading this section, the best approach to understand the structure of the Scientific Publication Data Model of the Dr. Inventor Framework is to browse all the classes included in the _edu.upf.taln.dri.lib.model_ package (and sub-packages) of the [Javadoc](http://backingdata.org/dri/library/latest/javadoc.html).
 
-**This section of documentation is currently under editing; the editing will be concluded by the end of 2016.**
+**Please, note that parts of this documentation are currently under editing.**
 
 
 ## The IDs of the model instances: unambiguous identification and cross-reference of elements

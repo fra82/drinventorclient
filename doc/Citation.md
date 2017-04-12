@@ -1,2 +1,2 @@
 The citation analysis and enrichment module.
-**This section of documentation is currently under editing; the editing will be concluded by the end of 2016.**
+**Please, note that parts of this documentation are currently under editing.**

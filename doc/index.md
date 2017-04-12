@@ -1,10 +1,14 @@
 <h1>Dr. Inventor Text Mining Framework</h1>
 
+## Latest version: 3.1 (released on 3/11/2016)
+
+## New planned release: 4.0 (by the end of May 2017)
+
 Dr. Inventor Text Mining Framework is a self-contained java library that enables the automated analysis of scientific publications. The Framework is intended to support researchres as well as any other interested actor in easily bootstrapping any automated analysis and study of scientific articles. Given a paper (PDF or JATS XML), a set of Java methods and classes enables the access to the results of the analyses performed by the Framework. The Dr. Inventor Text Mining Framework supports the characterization of several aspects of scientific publications including the identification of their structural elements, the enrichment of their bibliographic entries by accessing external on-line services, the rhetorical characterization of sentences, named entity linking and disambiguation and the creation of extractive summaries.
 
 This documentation includes detailed information concerning the [architecture](Components) of the Dr. Inventor Text Mining Framework and its [integration and exploitation](Installation) in your code.
 
-**Please, note that parts of this documentation are currently under editing; the editing will be concluded by the end of 2016.**
+**Please, note that parts of this documentation are currently under editing.**
 
 ## Latest version: 3.1 (released on 3/11/2016)
 

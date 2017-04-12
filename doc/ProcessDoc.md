@@ -2,7 +2,7 @@ Once imported a scientific publication as explained in the [related section](Imp
 
 After explaining how scientific publications are processed, we provide practical example of the different types of information that can be extracted from a scientific publication that has been [imported](ImportDoc) in the Dr. Inventor Framework.
 
-**This section of documentation is currently under editing; the editing will be concluded by the end of 2016.**
+**Please, note that parts of this documentation are currently under editing.**
 
 
 ## Lazy processing
