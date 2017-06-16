@@ -33,7 +33,7 @@ public class ParsePaper {
 		Logger.getRootLogger().setLevel(Level.INFO);
 
 		// 1) Set the full path to the Dr. Inventor Framework Property files
-		Factory.setDRIPropertyFilePath("/ibi/users/ronzano/DR_INENTOR_LIB/LIB_3_1/DRIconfig.properties");
+		Factory.setDRIPropertyFilePath("/YOUR/LOCAL/PATH/TO/DRIconfig.properties");
 
 		// 2) Programmatically configure the PDF processing options (http://driframework.readthedocs.io/en/latest/Initialize/)
 		Factory.setPDFtoTextConverter(PDFtoTextConvMethod.GROBID);
@@ -105,7 +105,7 @@ public class ParsePaper {
 		// 5.C) Load PDF from local file
 		Document doc_PDFpaperFILE = null;
 		try {
-			String PDF_FILE_PATH = "/ibi/users/ronzano/DR_INENTOR_LIB/LIB_3_1/ronzano-savesd2016.pdf";
+			String PDF_FILE_PATH = "/YOUR/LOCAL/PATH/TO/a_PDF_file.pdf";
 			doc_PDFpaperFILE = Factory.getPDFloader().parsePDF(PDF_FILE_PATH);
 		} catch (DRIexception e) {
 			System.out.println("Error while importing a PDF file in the Dr. Inventor Text Mining Framework!");
