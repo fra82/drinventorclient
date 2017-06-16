@@ -39,7 +39,7 @@
 		<dependency>
 			<groupId>edu.upf.taln.dri</groupId>
 			<artifactId>lib</artifactId>
-			<version>2.3</version>
+			<version>3.1</version>
 		</dependency>
 	</dependencies>
 </project>

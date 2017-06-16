@@ -17,7 +17,7 @@ Links to resources (refer to the [Installation](Installation.md) section to see 
 * [Javadoc of latest version](http://backingdata.org/dri/library/latest/javadoc.html)
 * [Dr. Inventor Framework Resources folder of the latest version](http://backingdata.org/dri/library/latest/resourceFolder.html)
 * [Dr. Inventor Framework Property file of the latest version](http://backingdata.org/dri/library/latest/configurationFile.html)
-* [Client code sample](https://github.com/fra82/driframework)
+* [Client code sample](https://github.com/fra82/driframeworkclient)
 
 
 <h3>About</h3>
