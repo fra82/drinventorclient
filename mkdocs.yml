@@ -5,24 +5,25 @@ theme: readthedocs
 site_description: Documentation for Dr. Inventor Text Mining Framework
 docs_dir: doc
 include_search: true
-pages:
-- ['index.md', 'Home']
-- ['Introduction.md', 'About', 'Introduction']
-- ['References.md', 'About', 'References']
-- ['Version.md', 'About', 'Version']
-- ['ArchitectureOverview.md', 'Architecture', 'Overview']
-- ['PDFtoText.md', 'Architecture', 'Converting PDF to text']
-- ['Citation.md', 'Architecture', 'Analyzing citations']
-- ['RhetSentence.md', 'Architecture', 'Identifying the rhetorical role of sentences']
-- ['BabelnetAnn.md', 'Architecture', 'Annotating papers by Babelnet']
-- ['SVOgraph.md', 'Architecture', 'Generating Subject-Verb-Object graphs']
-- ['Summa.md', 'Architecture', 'Summarizing papers']
-- ['Installation.md', 'User manual', 'Installation']
-- ['Initialize.md', 'User manual', 'Initialization']
-- ['ImportDoc.md', 'User manual', 'Import scientific publications']
-- ['ProcessDoc.md', 'User manual', 'Process scientific publications']
-- ['ScuPubDataModel.md', 'User manual', 'The Scientific Publication Data Model']
-- ['StoreDoc.md', 'User manual', 'Store processing results']
-- ['FAQ.md', 'User manual', 'FAQ']
-
-
+nav:
+- Home: 'index.md'
+- About:
+    - 'Introduction': 'Introduction.md'
+    - 'References': 'References.md'
+    - 'Version': 'Version.md'
+- Architecture:
+    - 'Overview': 'ArchitectureOverview.md'
+    - 'Converting PDF to text': 'PDFtoText.md'
+    - 'Analyzing citations': 'Citation.md'
+    - 'Identifying the rhetorical role of sentences': 'RhetSentence.md'
+    - 'Annotating papers by Babelnet': 'BabelnetAnn.md'
+    - 'Generating Subject-Verb-Object graphs': 'SVOgraph.md'
+    - 'Summarizing papers': 'Summa.md'
+- User manual:
+    - 'Installation': 'Installation.md'
+    - 'Initialization': 'Initialize.md'
+    - 'Import scientific publications': 'ImportDoc.md'
+    - 'Process scientific publications': 'ProcessDoc.md'
+    - 'The Scientific Publication Data Model': 'ScuPubDataModel.md'
+    - 'Store processing results': 'StoreDoc.md'
+    - 'FAQ': 'FAQ.md'
