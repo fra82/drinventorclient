@@ -1,4 +1,4 @@
-Before start using the Dr. Inventor Framework in your Java code, by means of the Factory class (see [Javadoc](http://backingdata.org/dri/library/latest/javadoc.html)) it is possible to programmatically set the following paper processing options:
+Before start using the Dr. Inventor Framework in your Java code, by means of the Factory class (see [Javadoc](http://scientmin-fe-lastus.s.upf.edu/drinventor/doc/)) it is possible to programmatically set the following paper processing options:
 
 
 ## Which PDF-to-text converter to use?
@@ -28,7 +28,7 @@ PDFtoTextConvMethod currentConverter = Factory.checkPDFtoTextConverter();
 
 
 ## Enable and disable scientific text mining modules
-When the Dr. Inventor Framework is initialized it is possible to enable or disable the different scientific text mining modules that it integrates. To this purpose, the ModuleConfig object has to be instantiated (see [Javadoc](http://backingdata.org/dri/library/latest/javadoc.html)). This object contains different boolean flags useful to manage the single scientific text mining modules of the Dr. Inventor Framework. If the related boolean flag is set to true, the scientific text mining module under consideration is activated.  
+When the Dr. Inventor Framework is initialized it is possible to enable or disable the different scientific text mining modules that it integrates. To this purpose, the ModuleConfig object has to be instantiated (see [Javadoc](http://scientmin-fe-lastus.s.upf.edu/drinventor/doc/)). This object contains different boolean flags useful to manage the single scientific text mining modules of the Dr. Inventor Framework. If the related boolean flag is set to true, the scientific text mining module under consideration is activated.  
 *IMPORTANT*: when a scientific text mining module is disactivated, the objects (or fields of the objects) of the Dr. Inventor Framework Data Model that should provide access to the information extracted by that module are set to null.
 
 The following code shows how to enable / disable the different modules of the Dr. Inventor Framework programmatically:
