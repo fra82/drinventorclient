@@ -16,9 +16,9 @@ There are two approaches to import the Dr. Inventor Text Mining Framework Java l
 ```javascript
 <repositories>
 	<repository>
-		<id>scientmin-fe-lastus-repo</id>
+		<id>Dr. Inventor Maven Repo (LaSTUs)</id>
 		<name>Scientmin LaSTUS TALN UPF repository</name>
-		<url>http://scientmin-fe-lastus.s.upf.edu/drinventor/MavenRepo/</url>
+		<url>http://taln.upf.edu/drinventor/MavenRepo/</url>
 	</repository>
 </repositories>
 ```  
@@ -31,14 +31,14 @@ and the following dependency (the number of the latest version of the Dr. Invent
 </dependency>
 ```
 
-**Approach B**: You can download [this compressed file](http://scientmin-fe-lastus.s.upf.edu/drinventor/lib-3.1-bin.zip) including the library JAR together with all its dependencies so as to improt them in your Java code.
+**Approach B**: You can download [this compressed file](http://taln.upf.edu/drinventor/lib-3.1-bin.zip) including the library JAR together with all its dependencies so as to improt them in your Java code.
 
 ### STEP 2: Configure the library
 Once imported the library and its dependences, the following step should be carried out:
 
- 1. Download and extract [Dr. Inventor Framework Resources folder](http://scientmin-fe-lastus.s.upf.edu/drinventor/DRIresources-3.1.tar.gz)
+ 1. Download and extract [Dr. Inventor Framework Resources folder](http://taln.upf.edu/drinventor/DRIresources-3.1.tar.gz)
 
- 2. Download [Dr. Inventor Framework Property file](http://scientmin-fe-lastus.s.upf.edu/drinventor/DRIconfig.properties)
+ 2. Download [Dr. Inventor Framework Property file](http://taln.upf.edu/drinventor/DRIconfig.properties)
 
  3. Modify the Dr. Inventor Framework Property file by setting:
 
@@ -61,10 +61,10 @@ When you update from an older to a newer version of the Dr. Inventor Text Mining
 
  1.  If the library is imported by Maven, update the library version number of the dependency in your POM
 
- 2.  If the JAR of the library is imported by downloading the JAR together with all its dependencies, [download the compressed file](http://scientmin-fe-lastus.s.upf.edu/drinventor/lib-3.1-bin.zip) including the latest JARs (library together with its dependencies)
+ 2.  If the JAR of the library is imported by downloading the JAR together with all its dependencies, [download the compressed file](http://taln.upf.edu/drinventor/lib-3.1-bin.zip) including the latest JARs (library together with its dependencies)
 
- 3.  Download the new [Dr. Inventor Framework Resources folder](http://scientmin-fe-lastus.s.upf.edu/drinventor/DRIresources-3.1.tar.gz)
+ 3.  Download the new [Dr. Inventor Framework Resources folder](http://taln.upf.edu/drinventor/DRIresources-3.1.tar.gz)
 
- 4.  Download the new [Dr. Inventor Framework Property file](http://scientmin-fe-lastus.s.upf.edu/drinventor/DRIconfig.properties) and replace this file to its old version if any. Properly modify the properties of the new Dr. Inventor Framework Property file by specifying the local path of the new Dr Inventor Library Resources folder and in case the other property values previously described in this page (STEP 2: COnfigure the library).
+ 4.  Download the new [Dr. Inventor Framework Property file](http://taln.upf.edu/drinventor/DRIconfig.properties) and replace this file to its old version if any. Properly modify the properties of the new Dr. Inventor Framework Property file by specifying the local path of the new Dr Inventor Library Resources folder and in case the other property values previously described in this page (STEP 2: COnfigure the library).
 
 Remember that each version of the library comes with its own Dr. Inventor Framework Resources folder and its own Dr. Inventor Framework Property file. You should update both these resources as explained when switching to another version of the Dr. Inventor Framework.

@@ -1,6 +1,6 @@
 The Dr. Inventor Text Mining Framework can extract and enrich the contents of scientific publications both in PDF and [JATS XML](https://jats.nlm.nih.gov/publishing/tag-library/1.1/index.html) formats. It is also possible to analize the contents of plain text excerpts.
 
-Once imported, the contents of a paper can be accessed by means of the method of the interface Document (see [Javadoc](http://scientmin-fe-lastus.s.upf.edu/drinventor/doc/)): the Document interface exposes the core set of method useful to retrieve the scturcutred, semantically-rich information mined from a paper. This methods return instances of the objects of the [Scientific Publication Data Model](ScuPubDataModel) defined by the Dr. Inventor Frameowrk: this data model represents by means of java objects all the information mined form a scientific publication.
+Once imported, the contents of a paper can be accessed by means of the method of the interface Document (see [Javadoc](http://taln.upf.edu/drinventor/doc/)): the Document interface exposes the core set of method useful to retrieve the scturcutred, semantically-rich information mined from a paper. This methods return instances of the objects of the [Scientific Publication Data Model](ScuPubDataModel) defined by the Dr. Inventor Frameowrk: this data model represents by means of java objects all the information mined form a scientific publication.
 
 
 ## Import PDF papers

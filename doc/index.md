@@ -11,10 +11,10 @@ This documentation includes detailed information concerning the [architecture](C
 ## Latest version: 3.1 (released on 3/11/2016)
 
 Links to resources (refer to the [Installation](Installation.md) section to see how import the library in your program):
-* [Jar file and dependent jars of the latest version](http://scientmin-fe-lastus.s.upf.edu/drinventor/lib-3.1-bin.zip). Please, refer the [Installation](Installation) section of this documentation for a detailed explanation of how to use the Dr. Inventor Framework in your code
-* [Javadoc of latest version](http://scientmin-fe-lastus.s.upf.edu/drinventor/doc/)
-* [Dr. Inventor Framework Resources folder of the latest version](http://scientmin-fe-lastus.s.upf.edu/drinventor/DRIresources-3.1.tar.gz)
-* [Dr. Inventor Framework Property file of the latest version](http://scientmin-fe-lastus.s.upf.edu/drinventor/DRIconfig.properties)
+* [Jar file and dependent jars of the latest version](http://taln.upf.edu/drinventor/lib-3.1-bin.zip). Please, refer the [Installation](Installation) section of this documentation for a detailed explanation of how to use the Dr. Inventor Framework in your code
+* [Javadoc of latest version](http://taln.upf.edu/drinventor/doc/)
+* [Dr. Inventor Framework Resources folder of the latest version](http://taln.upf.edu/drinventor/DRIresources-3.1.tar.gz)
+* [Dr. Inventor Framework Property file of the latest version](http://taln.upf.edu/drinventor/DRIconfig.properties)
 * [Client code sample](https://github.com/fra82/driframeworkclient)
 
 
