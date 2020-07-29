@@ -2,7 +2,9 @@
 
 **Latest version: 4.0 (29/11/2016)**  
   
-**Open-source project distributed under the [GPL v3.0 license](https://www.gnu.org/licenses/gpl-3.0.html)**
+**Open-source project distributed under the [GPL v3.0 license](https://www.gnu.org/licenses/gpl-3.0.html)**  
+**GitHub code repository: [https://github.com/hsaggion/drinventor](https://github.com/hsaggion/drinventor)**  
+  
   
 Dr. Inventor Text Mining Framework is a self-contained java library that enables the automated analysis of scientific publications. The Framework is intended to support researchres as well as any other interested actor in easily bootstrapping any automated analysis and study of scientific articles. Given a paper (PDF or JATS XML), a set of Java methods and classes enables the access to the results of the analyses performed by the Framework. The Dr. Inventor Text Mining Framework supports the characterization of several aspects of scientific publications including the identification of their structural elements, the enrichment of their bibliographic entries by accessing external on-line services, the rhetorical characterization of sentences, named entity linking and disambiguation and the creation of extractive summaries.
 
