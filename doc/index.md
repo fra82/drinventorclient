@@ -1,6 +1,6 @@
 <h1>Dr. Inventor Text Mining Framework</h1>
 
-## Latest version: 4.0 (29/11/2016)  
+**Latest version: 4.0 (29/11/2016)**  
   
 **Open-source project distributed under the [GPL v3.0 license](https://www.gnu.org/licenses/gpl-3.0.html)**
   
