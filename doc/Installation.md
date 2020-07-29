@@ -31,12 +31,12 @@ and the following dependency (the number of the latest version of the Dr. Invent
 </dependency>
 ```
 
-**Approach B**: You can download [this compressed file](http://taln.upf.edu/drinventor/lib-3.1-bin.zip) including the library JAR together with all its dependencies so as to improt them in your Java code.
+**Approach B**: You can download [this compressed file](http://taln.upf.edu/drinventor/lib-4.0-bin.zip) including the library JAR together with all its dependencies so as to improt them in your Java code.
 
 ### STEP 2: Configure the library
 Once imported the library and its dependences, the following step should be carried out:
 
- 1. Download and extract [Dr. Inventor Framework Resources folder](http://taln.upf.edu/drinventor/DRIresources-3.1.tar.gz)
+ 1. Download and extract [Dr. Inventor Framework Resources folder](http://taln.upf.edu/drinventor/DRIresources-4.0.tar.gz)
 
  2. Download [Dr. Inventor Framework Property file](http://taln.upf.edu/drinventor/DRIconfig.properties)
 
@@ -61,9 +61,9 @@ When you update from an older to a newer version of the Dr. Inventor Text Mining
 
  1.  If the library is imported by Maven, update the library version number of the dependency in your POM
 
- 2.  If the JAR of the library is imported by downloading the JAR together with all its dependencies, [download the compressed file](http://taln.upf.edu/drinventor/lib-3.1-bin.zip) including the latest JARs (library together with its dependencies)
+ 2.  If the JAR of the library is imported by downloading the JAR together with all its dependencies, [download the compressed file](http://taln.upf.edu/drinventor/lib-4.0-bin.zip) including the latest JARs (library together with its dependencies)
 
- 3.  Download the new [Dr. Inventor Framework Resources folder](http://taln.upf.edu/drinventor/DRIresources-3.1.tar.gz)
+ 3.  Download the new [Dr. Inventor Framework Resources folder](http://taln.upf.edu/drinventor/DRIresources-4.0.tar.gz)
 
  4.  Download the new [Dr. Inventor Framework Property file](http://taln.upf.edu/drinventor/DRIconfig.properties) and replace this file to its old version if any. Properly modify the properties of the new Dr. Inventor Framework Property file by specifying the local path of the new Dr Inventor Library Resources folder and in case the other property values previously described in this page (STEP 2: COnfigure the library).
 
